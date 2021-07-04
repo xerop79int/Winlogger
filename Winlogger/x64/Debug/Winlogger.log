@@ -1,0 +1,8 @@
+﻿  Additional.cpp
+  Source.cpp
+C:\Users\D\source\repos\Winlogger\Winlogger\Encryption.h(43,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\D\source\repos\Winlogger\Winlogger\Encryption.h(86,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\D\source\repos\Winlogger\Winlogger\Source.cpp(20,42): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Timer.cpp
+  Generating Code...
+  Winlogger.vcxproj -> C:\Users\D\source\repos\Winlogger\x64\Debug\Winlogger.exe
